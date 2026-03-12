@@ -1,7 +1,9 @@
-gits -chequue if gi is installed in the laptop .git help -a
+gits -cheque if git is installed in the laptop .git help -a
 
 git init -makes the folder start using git DONE ONLY ONCE.
 
 git add .= adds all files in the folder to be tracked by git 
 
-git commit -m "first commit"= adds message/tag to your changes.
+git commit -m "first commit"= adds message/tag to your changes.https://github.com/bizzkevin23/html_study.git
+
+            
